@@ -9,5 +9,4 @@
                 document.write(i+' ');
             }
                document.write("<br/>");
-            i+0;
         }
